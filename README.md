@@ -54,10 +54,7 @@ python main.py
 
 
 ## 📌 Project Preview
-![Task Manager Screenshot](https://github.com/singharpana-24/Task-Manager-Python/blob/main/images/taskmanager.png?raw=true)
-
-
-
+<img width="1903" height="1113" alt="taskmanager" src="https://github.com/user-attachments/assets/dbd7c48d-a75b-408b-9acc-9a33f1bc6384" />
 
 
 
