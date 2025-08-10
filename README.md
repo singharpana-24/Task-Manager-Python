@@ -55,7 +55,7 @@ python main.py
 
 ## 📌 Project Preview
 
-![App Preview]("C:\Users\singh\OneDrive\Pictures\Screenshots\taskmanager.png")
+![App Preview]("taskmanager.png")
 
 
 
