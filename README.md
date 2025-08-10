@@ -44,18 +44,19 @@ python main.py
 
 ## 🚀 How to Run
 ```bash
-Activate virtual environment (Windows)
+#Activate virtual environment (Windows)
 venv\Scripts\activate
-Activate virtual environment (Mac/Linux)
-source venv/bin/activate
-Run the application
+#Activate virtual environment (Mac/Linux)
+venv/bin/activate
+#Run the application
 python main.py
 ```
 
 
 ## 📌 Project Preview
+![Task Manager App Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/taskmanager.png)
 
-![App Preview]("taskmanager.png")
+
 
 
 
