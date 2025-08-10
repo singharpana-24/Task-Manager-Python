@@ -43,13 +43,20 @@ python main.py
 
 
 ## 🚀 How to Run
-
+```bash
 Activate virtual environment (Windows)
 venv\Scripts\activate
 Activate virtual environment (Mac/Linux)
 source venv/bin/activate
 Run the application
 python main.py
+```
+
+
+## 📌 Project Preview
+
+![App Preview](bkgimg.jpeg)
+
 
 
 
